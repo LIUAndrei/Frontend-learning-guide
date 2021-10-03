@@ -1,3 +1,10 @@
+# If you doubt about
+
+    being able to become a coder at all - watch the following video https://youtu.be/cgDA1pP-g0E
+
+
+
+
 # Overall frontend web development guidelines
 
     Here is the basic gist:
@@ -15,7 +22,7 @@
 
     https://www.youtube.com/watch?v=4kgoEphreRc good vid to get a better understanding.
 
-# Tools of trade
+# Tools of the trade
 
     You can write sites in Notepad but this is not a good idea. There are specialized tools (IDE) for coders like Sublime, Atom, VIM, VSCode, JetBrains WebStorm, and so on. I use VSCode - it is free and has so many extensions that it almost can compete with paid monsters like WebStorm.
 
@@ -29,6 +36,10 @@
 
     5. Why you are not on linkedin yet? 
 
+    6. Figma https://www.figma.com is a software that provides a way for designers to design and for developers to deconstruct the design into code.
+
+    7. Photoshop or GIMP 
+
 
 # Websites that guide and help
 
@@ -37,6 +48,14 @@
     2. https://github.com/acilsd/wrk-fet #The mother of all guidelines. 
 
     3. https://stackoverflow.com/ #basically a platform for answers. Masses of wisdom and knowledge from other coders. 
+
+    4. https://developer.mozilla.org/en-US/ official developer guide by Mozilla. 
+
+    5. https://www.w3schools.com/ another guide - no less great than the previous.
+
+    6. https://www.udemy.com/ More courses than you have time to study. If have no free money to buy - try looking up the course in the next site
+
+    7. https://rutracker.net/forum/index.php piracy is bad, kids. But so is poverty. Just google udemy and the tech you want to learn. Many courses were pirated already.
 
 # Websites that teach
 
@@ -124,5 +143,7 @@
     32. https://www.youtube.com/c/aocore #more of a vlog sorta thing. Job searching and coder wellness topics.
 
     33. https://www.youtube.com/c/FreelancerLifeStyle #massively GOOD. I'd say my #3 channel. So much info and tutorials on webdev! Has a lot of tutorials on related tech like Webpack and Gulp.
+
+    34. https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA #Lots of fullstack courses including Python if you want Python, Django, PHP, MERN, and so on and so forth. 
 
     X. https://www.youtube.com/c/explainingcomputers  #Just for fun of it. This dude is awesome. Computer topics here
